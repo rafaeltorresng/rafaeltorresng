@@ -1,9 +1,10 @@
 ## Hi, I'm Rafael Torres! 👋
 
-I'm a Computer Science student at Federal University of Paraíba (UFPB) currently in the 2nd semester. Passionate about exploring the realms of AI and Data Science.
+I'm a Computer Science student at Federal University of Paraíba (UFPB), currently in the 2nd semester, passionate about exploring the realms of and Data Science and Software Development.
 
 ## 🔍 Interests
 - Data Science
+- Software Development
 - Artifical Intelligence
 
 ## 🙋🏻‍♂️ **Connect with Me**
