@@ -1,5 +1,5 @@
-## Hi, I'm Rafael! 
+### Hey, I'm Rafael! 
 
-[My website](https://rafaeltorresng.github.io/)
+[rafaeltorresng.com](https://rafaeltorresng.github.io/)
 
 
