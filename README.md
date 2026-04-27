@@ -1,5 +1,5 @@
 ### Hey, I'm Rafael! 
 
-[rafaeltorresng.com](https://rafaeltorresng.github.io/)
+[rafaeltorresng.com](rafaeltorres.dev)
 
 
